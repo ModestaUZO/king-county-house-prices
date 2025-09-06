@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange) ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## Abstract
-This project explores the factors influencing house prices in King County, USA, and develops a predictive model using linear regression. It aims to identify key property characteristics that affect pricing and provide actionable insights for buyers, sellers, and real estate professionals.
+This project explores the factors influencing house prices in King County, USA, and develops a predictive model using linear regression. It aims to identify key property characteristics that affect pricing and provide actionable insights for buyers, sellers, and real estate professionals. You can view the full project [here](https://drive.google.com/file/d/1VbAiRPLvNmZccEBITx5SFPfJpNU3MvWc/view?usp=sharing).
 
 ## Overview
 Using publicly available housing data from [Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction?utm_medium=social&utm_campaign=kaggle-dataset-share&utm_source=linkedin), this analysis focuses on variables such as total living area (`sqft_living`), house grade, bathrooms, view, and waterfront access. A combination of exploratory data analysis, correlation studies, and regression modeling is employed to understand and predict home values.
