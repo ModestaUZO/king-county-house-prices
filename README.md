@@ -16,7 +16,7 @@ Using publicly available housing data from [Kaggle](https://www.kaggle.com/datas
 - Insights into the effect of premium features like waterfront and view  
 
 ## Purpose
-This project was initially completed **in fulfillment of the final assessment for the IBM Data Analysis with Python course**. It provides a baseline for predictive modeling in the housing market and offers actionable insights for decision-making by home buyers, sellers, and real estate professionals.
+This project applies multiple linear regression to predict house prices in King County, USA, and analyzes the extent to which this model can be reliably used for housing price estimation. The study highlights key predictors such as living area, grade, bathrooms, waterfront, and view, while evaluating model performance with metrics like R², RMSE, and MAE.
 
 ## Key Findings
 - `sqft_living`, house grade, and bathrooms are strong predictors of house price.  
